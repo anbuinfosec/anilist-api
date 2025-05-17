@@ -3,8 +3,7 @@
 ![AniList Logo](https://docs.anilist.co/anilist.png)
 
 [![PyPI Version](https://img.shields.io/pypi/v/anilist-api)](https://pypi.org/project/anilist-api/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![Build Status](https://img.shields.io/github/actions/workflow/status/anbuinfosec/anilist-api/python-package.yml?branch=main)](https://github.com/anbuinfosec/anilist-api/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
